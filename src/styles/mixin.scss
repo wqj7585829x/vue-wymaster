@@ -1,0 +1,76 @@
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@mixin scrollBar {
+  &::-webkit-scrollbar-track-piece {
+    background: #d3dce6;
+  }
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: #99a9bf;
+    border-radius: 20px;
+  }
+}
+
+@mixin relative {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+
+//皮肤scss--第二步
+@mixin bg_color($color){/*通过该函数设置主题颜色，后期方便统一管理；*/
+  background:$color!important;
+  [data-theme="theme"] & {
+    background:$background-color-theme!important;
+  }
+  [data-theme="theme1"] & {
+  background:$background-color-theme1!important;
+  }
+  [data-theme="theme2"] & {
+  background:$background-color-theme2!important;
+  }
+  [data-theme="theme3"] & {
+    background:$background-color-theme3!important;
+  } 
+ }
+
+ @mixin SliderBg($color){/*通过该函数设置左边菜单栏目大背景颜色，后期方便统一管理；*/
+  background:$color!important;
+  [data-theme="theme"] & {
+    background:$Slider-Bgcolor-theme!important;
+  }
+  [data-theme="theme1"] & {
+  background:$Slider-Bgcolor-theme1!important;
+  }
+  [data-theme="theme2"] & {
+  background:$Slider-Bgcolor-theme2!important;
+  }
+  [data-theme="theme3"] & {
+    background:$Slider-Bgcolor-theme3!important;
+  } 
+ }
+ 
+ @mixin HeaderBg($color){/*通过该函数设置左边菜单栏目大背景颜色，后期方便统一管理；*/
+  background:$color!important;
+  [data-theme="theme"] & {
+    background:$Header-Bgcolor-theme!important;
+  }
+  [data-theme="theme1"] & {
+  background:$Header-Bgcolor-theme1!important;
+  }
+  [data-theme="theme2"] & {
+  background:$Header-Bgcolor-theme2!important;
+  }
+  [data-theme="theme3"] & {
+    background:$Header-Bgcolor-theme3!important;
+  } 
+ }

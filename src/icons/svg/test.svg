@@ -1,0 +1,18 @@
+<!-- <?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1503994155726" class="icon" style="" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="8554" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64"><defs><style type="text/css"></style></defs><path d="M44.521739 0h44.521739v979.478261H44.521739zM267.130435 534.26087h44.521739v445.217391H267.130435zM489.73913 311.652174h44.52174v667.826087h-44.52174zM712.347826 712.347826h44.521739v267.130435h-44.521739zM934.956522 445.217391h44.521739v534.26087h-44.521739z" fill="" p-id="8555"></path></svg> -->
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="19.5px" height="19.5px" class="icon">
+<path fill-rule="evenodd"  stroke="rgb(0, 0, 0)" stroke-width="1px" stroke-linecap="butt" stroke-linejoin="miter" fill="none"
+ d="M16.500,18.500 L14.500,18.500 C13.395,18.500 12.500,17.605 12.500,16.500 L12.500,14.500 C12.500,13.395 13.395,12.500 14.500,12.500 L16.500,12.500 C17.605,12.500 18.500,13.395 18.500,14.500 L18.500,16.500 C18.500,17.605 17.605,18.500 16.500,18.500 ZM10.500,8.500 L8.500,8.500 C7.395,8.500 6.500,7.605 6.500,6.500 L6.500,2.500 C6.500,1.395 7.395,0.500 8.500,0.500 L10.500,0.500 C11.605,0.500 12.500,1.395 12.500,2.500 L12.500,6.500 C12.500,7.605 11.605,8.500 10.500,8.500 ZM6.500,16.500 C6.500,17.605 5.605,18.500 4.500,18.500 L2.500,18.500 C1.395,18.500 0.500,17.605 0.500,16.500 L0.500,14.500 C0.500,13.395 1.395,12.500 2.500,12.500 L4.500,12.500 C5.605,12.500 6.500,13.395 6.500,14.500 L6.500,16.500 Z"/>
+<path fill-rule="evenodd"  stroke="rgb(255, 255, 255)" stroke-width="1px" stroke-linecap="butt" stroke-linejoin="miter" fill="none"
+ d="M8.500,0.500 L10.500,0.500 C11.605,0.500 12.500,1.395 12.500,2.500 L12.500,6.500 C12.500,7.605 11.605,8.500 10.500,8.500 L8.500,8.500 C7.395,8.500 6.500,7.605 6.500,6.500 L6.500,2.500 C6.500,1.395 7.395,0.500 8.500,0.500 Z"/>
+<path fill-rule="evenodd"  stroke="rgb(255, 255, 255)" stroke-width="1px" stroke-linecap="butt" stroke-linejoin="miter" fill="none"
+ d="M2.500,13.500 L2.500,11.500 C2.500,10.395 3.545,9.500 4.833,9.500 L14.167,9.500 C15.455,9.500 16.500,10.395 16.500,11.500 L16.500,13.500 "/>
+<path fill-rule="evenodd"  stroke="rgb(255, 255, 255)" stroke-width="1px" stroke-linecap="butt" stroke-linejoin="miter" fill="none"
+ d="M8.500,7.500 L10.500,7.500 L10.500,10.500 L8.500,10.500 L8.500,7.500 Z"/>
+</svg>
+<!-- <?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg t="1511504199105" class="icon" style="" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1815" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64"><defs><style type="text/css"></style></defs>
+<path d="M770.56 460.8h250.88C998.4 220.16 803.84 25.6 563.2 2.56v250.88c104.96 20.48 186.88 102.4 207.36 207.36z m0 0M460.8 253.44V2.56C220.16 25.6 25.6 220.16 2.56 460.8h250.88c20.48-104.96 102.4-186.88 207.36-207.36z m0 0M563.2 770.56v250.88c243.2-23.04 435.2-217.6 460.8-460.8H773.12C750.08 668.16 668.16 750.08 563.2 770.56z m0 0M253.44 563.2H2.56c23.04 243.2 217.6 435.2 460.8 460.8V773.12C355.84 750.08 273.92 668.16 253.44 563.2z m0 0" fill="" p-id="1816">
+</path></svg> -->
